@@ -1,0 +1,68 @@
+
+<html>
+<head>
+	<title>Profile ni Jb :> </title>
+	
+	<style type"text/css">
+	img { 
+		width:180px;
+		height:210px;
+		}
+	
+	</style>
+	
+</head>
+
+<center><h1>John Benedict Santos Profile</h1></center>
+
+<center><img src="Profile Picture.jpg" /></center>
+
+<body align="center">
+
+	<h1 style = background-color:blue;>Likes and Dislikes</h1>
+
+<p id = "LikesAndDislikes" style ="display:none;">
+	<ul>Likes:
+		<li>I like playing online games such as <b>codm, roblox</b>.</li>
+		<li>I like <b>listening to music</b>.</li>
+		<li>I like <b>bikes</b>, <i>especially the crit setup bikes.</i></li>
+		<li>My favorite subjects are <b>Lunch and Uwian, and recess</b>.</li>
+                <li>I like <b>watching toktik</b>.</li>
+	
+	</ul>
+
+	<ul>Dislikes:
+		<li>I don't like being <i>pressured</i> by my family.</li>
+		<li>I don't like <b>mayayabang ket minsan may pagkamayabang din ako hehe:></b></li>
+		<li>I don't like plastik prends.</li>
+		<li>I don't like the weather cuz it's so cold here in the Pilipinas.</li>
+		</ul>
+</p>
+
+<button type = "button" onclick="document.getElementById('LikesAndDislikes')style.display='block'">Click to show likes and dislikes.</button>
+
+<button type = "button" onclick="document.getElementById('LikesAndDislikes')stule.display='none'">Click to hide likes and dislikes.</button>
+	
+
+	<h1 style = background-color:#C0C0C0>My personality</h1>
+
+<p id = "Personality" style ="display:none;">
+	<ul>
+		<li>I am <b>competetive</b> when it comes to the sports ,<b>any sports</b> because I love winning and at the same time I love losing.</li>
+		<li>I like riding my nike when im bored.</li>
+		<li>Mabilis mabanas sa isang tao.</li>
+		<li>I don't get mad easily unless people are really annoying.</li>
+		
+	</ul>
+
+<button type = "button" onclick="document.getElementById('Personality)style.display='block'">Click to show Personality.</button>
+
+<button type = "button" onclick="document.getElementById('Personality')style.display='none'">Click to hide Personality.</button>
+
+
+
+</p>
+</html>
+
+
+
